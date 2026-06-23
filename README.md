@@ -64,7 +64,7 @@ The application opens maximized and is ready to use.
 ## 📁 File Structure
 
 ```
-bmi_calculator.py   # Main application file
+bmi_calculator.py   # Main application fi
 bmi_history.csv     # Auto-created history file (generated on first use)
 ```
 
