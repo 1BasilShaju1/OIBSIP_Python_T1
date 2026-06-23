@@ -64,8 +64,16 @@ The application opens maximized and is ready to use.
 ## 📁 File Structure
 
 ```
-bmi_calculator.py   # Main application fi
-bmi_history.csv     # Auto-created history file (generated on first use)
+BMI-Calculator/
+│
+├── Constant and Theme.py     # Centralized constants, colors, and UI themes
+├── Core.py                   # Core BMI calculation logic (units, categories)
+├── GUI.py                    # Tkinter-based graphical user interface
+├── History.py                # Handles saving, loading, and clearing BMI records
+├── PDF Generator.py          # Generates professional PDF reports with charts & tips
+├── README.md                 # Documentation and usage instructions
+└── bmi_history.csv           # Auto-generated file storing BMI history (runtime)
+
 ```
 
 > The `bmi_history.csv` file is created automatically in the same directory as the script when you first calculate a BMI.
