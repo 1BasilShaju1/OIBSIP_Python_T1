@@ -13,7 +13,6 @@ A feature-rich desktop BMI (Body Mass Index) calculator built with Python and Tk
 - **History Tracking** — All results saved locally to a CSV file with timestamps
 - **Trend Graph** — Interactive matplotlib chart showing BMI over time, filterable by name
 - **PDF Report Export** — Generates a professional 2-page PDF report including measurements, classification table, health tips, and a BMI trend chart
-- **Fullscreen Support** — Press `F11` to toggle fullscreen; `Esc` to exit
 
 ---
 
@@ -73,14 +72,6 @@ bmi_history.csv     # Auto-created history file (generated on first use)
 
 ---
 
-## ⌨️ Keyboard Shortcuts
-
-| Key | Action |
-|-----|--------|
-| `F11` | Toggle fullscreen |
-| `Esc` | Exit fullscreen |
-
----
 
 ## 📊 BMI Classification
 
