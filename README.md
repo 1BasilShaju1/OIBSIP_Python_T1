@@ -26,7 +26,7 @@
 ### 📄 PDF Report Samples
 | Underweight Report | Normal Report | Overweight Report |
 |:-:|:-:|:-:|
-| ![Underweight](Screenshot 1.png) | ![Normal](Screenshot 2.png) | ![Overweight](Screenshot 3.png) |
+| ![Underweight](Screenshot1.png) | ![Normal](Screenshot2.png) | ![Overweight](Screenshot3.png) |
 
 ---
 
