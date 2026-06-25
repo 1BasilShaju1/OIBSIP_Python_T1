@@ -160,7 +160,7 @@ python main.py
 
 ## 🎬 Demo
 
-[![Watch the Demo](https://img.shields.io/badge/▶%20Watch%20Demo-T2__Demo.mp4-00BFA5?style=for-the-badge)](T2_Demo.mp4)
+[![Watch the Demo](https://img.shields.io/badge/▶%20Watch%20Demo-T1__Demo.mp4-00BFA5?style=for-the-badge)](T1_Demo.mp4)
 
 > Download or view `T2_Demo.mp4` from the repository for a full walkthrough.
 
