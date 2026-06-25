@@ -23,18 +23,19 @@
 ### 🧮 Calculator Tab
 ![BMI Calculator Main Screen](Screenshot.png)
 
-### 📄 PDF Report Sample
-   Underweight Report 
-   
-   ![Underweight](Screenshot1.png)  
-   |
-   Normal Report
-   
-   ![Normal](Screenshot2.png)
-   
-   Overweight Report 
-   
-   ![Overweight](Screenshot3.png)
+### 📄 PDF Report Samples
+ 
+**Underweight Report**
+ 
+![Underweight Report](Screenshot%201.png)
+ 
+**Normal Report**
+ 
+![Normal Report](Screenshot%202.png)
+ 
+**Overweight Report**
+ 
+![Overweight Report](Screenshot%203.png)
 ---
 
 ## ✨ Features
